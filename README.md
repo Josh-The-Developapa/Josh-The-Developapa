@@ -15,9 +15,6 @@ I'm a computer programmer, and aspiring AI & Robotics engineer with a passion fo
   
 - 💼 Aspiring to one day own a successful AI consulting firm in Africa.
   
-  
-- 🚗 Dreaming to work at Tesla as an AI & Computer vision engineer
-  
 
 - 🌐 On top of all this, I'm skilled in web development using the MERN (MongoDB, Express, React, Node.js) stack. I've built web apps and sites that seamlessly blend form and function, delivering exceptional user experiences. Platforms rangining from landing pages for local businesses, restaurants to an e-voting platform my current highschool
 
