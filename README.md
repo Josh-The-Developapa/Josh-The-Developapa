@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua Mukisa (JMuks) 👋
+# Hi there, I'm Joshua Mukisa 👋
 
 I'm a computer programmer, and aspiring AI & Robotics engineer with a passion for deep learning & computer vision.
 
